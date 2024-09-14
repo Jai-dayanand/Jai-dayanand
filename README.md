@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dayanandjai99@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XoMBbxAl06loHegkq2BZ_r81aOE4TOZR/view?usp=sharing](https://drive.google.com/file/d/1XoMBbxAl06loHegkq2BZ_r81aOE4TOZR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1r5I2zuToSjpVRX2kg7_xKCJrwAuB9vvV/view?usp=sharing](https://drive.google.com/file/d/1r5I2zuToSjpVRX2kg7_xKCJrwAuB9vvV/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
