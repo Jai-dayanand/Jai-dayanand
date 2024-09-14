@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Jai Dayanand</h1>
-- 🔭 I’m currently working on [Learniche](https://github.com/Jai-dayanand/Learniche)
-
 - 🌱 I’m currently learning **Machine learning**
 
 - 👨‍💻 All of my projects are available at [https://jaidayanand.vercel.app/](https://jaidayanand.vercel.app/)
