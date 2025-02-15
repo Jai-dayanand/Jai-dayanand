@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jai Dayanand</h1>
 
-- 👨‍💻 All of my projects are available at **[jaidayanand.vercel.app](https://jaidayanand.vercel.app/)**
+- 👨‍💻 You can check out my portfolio at **[jaidayanand.vercel.app](https://jaidayanand.vercel.app/)**
 - 📫 Reach me at **dayanandjai99@gmail.com**
 - 📄 Know about my experiences: **[View Resume](https://drive.google.com/file/d/1n2HOHJL27GOeqnechy0yfMsC9zAhaAQs/view?usp=sharing)**
 
