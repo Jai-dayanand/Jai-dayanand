@@ -2,7 +2,7 @@
 
 - 👨‍💻 All of my projects are available at **[jaidayanand.vercel.app](https://jaidayanand.vercel.app/)**
 - 📫 Reach me at **dayanandjai99@gmail.com**
-- 📄 Know about my experiences: **[View Resume]([https://drive.google.com/file/d/1UFjnO0KrZCz3PKT392ulYsIvfO1_WWRV/view?usp=sharing](https://drive.google.com/file/d/19YABTOL1NhHRNKO1wFYCedQfXZecoELd/view?usp=sharing))**
+- 📄 Know about my experiences: **[View Resume](https://drive.google.com/file/d/19YABTOL1NhHRNKO1wFYCedQfXZecoELd/view?usp=sharing)**
 
 ---
 
