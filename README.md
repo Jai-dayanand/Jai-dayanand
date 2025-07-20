@@ -83,13 +83,13 @@ I'm a B.Tech Computer Engineering student passionate about turning ideas into sc
 
 ### 📌 Featured Projects
 
-- 🔹 [Flashcard Generator](https://github.com/Jai-dayanand/AI-Flashcard-Generator)  
+-  [Flashcard Generator](https://github.com/Jai-dayanand/AI-Flashcard-Generator)  
   AI-powered flashcard app using **Next.js**, **OpenAI**, **Stripe**, and **Clerk** for secure transactions.
 
-- 🔹 [Professor Rating Chatbot](https://github.com/Jai-dayanand/AI-Rate-My-Professor)  
+-  [Professor Rating Chatbot](https://github.com/Jai-dayanand/AI-Rate-My-Professor)  
   RAG-based recommendation chatbot that helps students choose professors intelligently.
 
-- 🔹 [Website for Chasten Rubber Product](https://github.com/Jai-dayanand/Chasten-Rubber-Site)  
+-  [Website for Chasten Rubber Product](https://github.com/Jai-dayanand/Chasten-Rubber-Site)  
   A responsive HTML/CSS/JavaScript website showcasing a company’s products and services.
 
 ---
