@@ -106,7 +106,7 @@ Retrieval-Augmented chatbot to help students discover the best professors based 
 ### 🔹 **Insight Aggregator – Domain-Agnostic Info Pipeline**  
 Full data-scraping → embedding → summarization system built with **FastAPI**, **ChromaDB**, and **Python**.  
 ➡️ *Converts raw web data into structured summaries.*
-
+🔗 https://github.com/Jai-dayanand/Insight-Aggregator
 ---
 
 ### 🔹 **Chasten Rubber Products Website**  
