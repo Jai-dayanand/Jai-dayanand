@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://jaidayanand.vercel.app/" target="_blank">🌐 Portfolio</a> |
   <a href="mailto:dayanandjai99@gmail.com">📫 Email</a> |
-  <a href="https://github.com/Jai-dayanand" target="_blank">🐙 GitHub</a> |
+  <a href="https://jaidayanand.in/images/Resume_Jai.pdf" target="_blank">🐙 Resume</a> |
   <a href="https://www.linkedin.com/in/jai-dayanand-bb2265249/" target="_blank">💼 LinkedIn</a>
 </p>
 
