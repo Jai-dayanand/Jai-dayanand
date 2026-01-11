@@ -15,8 +15,7 @@
 
 ## 🌟 About Me
 
-I’m a Computer Engineering student passionate about building **ML-powered systems**, **end-to-end web apps**, and **tools that convert unstructured information into clarity**.  
-I enjoy working at the intersection of **AI, backend engineering, and practical product design**.
+I’m currently working as an **AI/ML research intern at IIT Bombay**, and a final year student at NMIMS Mumbai. I’m passionate about building impactful, scalable solutions and leveraging technology to address real-world challenges. Through my academic and project work, I am committed to making meaningful contributions to the tech industry.
 
 I learn by building → breaking → fixing → scaling.
 
