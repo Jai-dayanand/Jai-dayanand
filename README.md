@@ -67,7 +67,10 @@ I learn by building → breaking → fixing → scaling.
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=flat&logo=powerapps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white"/>
 </p>
+
 
   
 ### 🧰 Tools & IDEs
